@@ -8,3 +8,4 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Username enumeration via subtly different responses|[click](https://github.com/NOZ1000/PortSwiggerSolutions/tree/main/ServerSide/Authentification/Username%20enumeration%20via%20subtly%20different%20responses)|
 |Web shell content type restriction|[click](https://github.com/NOZ1000/PortSwiggerSolutions/blob/main/ServerSide/FileUpload/web_shell_content_type_rest/solve.py)|
 |Broken brute-force protection, multiple credentials per request|[click](/ServerSide/Authentification/Broken%20brute-force%20protection,%20multiple%20credentials%20per%20request/)|
+|Brute-forcing a stay-logged-in cookie|/ServerSide/Authentification/Brute-forcing a stay-logged-in cookie/solve.py|
