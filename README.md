@@ -1,5 +1,7 @@
 Port Swigger Labs Solutions only using `python` scripts.
 
+
+# Authentification Labs
 |Lab Name|Link|
 |---|---|
 |Broken brute-force protection, IP block|[click](ServerSide/Authentification/Broken%20brute-force%20protection%2C%20IP%20block/solve.py)|
@@ -13,3 +15,8 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Password reset poisoning via middleware|[click](/ServerSide/Authentification/Password%20reset%20poisoning%20via%20middleware/solve.py)|
 |Offline password cracking|[click](/ServerSide/Authentification/Offline%20password%20cracking/solve.py)|
 |Password brute-force via password change|[click](/ServerSide/Authentification/Password%20brute-force%20via%20password%20change/solve.py)|
+
+# Path traversal
+|Lab Name|Link|
+|---|---|
+|File path traversal, traversal sequences blocked with absolute path bypass|[click](/ServerSide/PathTraversal/File%20path%20traversal,%20traversal%20sequences%20blocked%20with%20absolute%20path%20bypass/solve.py)|
