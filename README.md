@@ -11,3 +11,4 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Brute-forcing a stay-logged-in cookie|[click](/ServerSide/Authentification/Brute-forcing%20a%20stay-logged-in%20cookie/solve.py)|
 |Password reset broken logic|[click](/ServerSide/Authentification/Password%20reset%20broken%20logic/solve.py)|
 |Password reset poisoning via middleware|[click](/ServerSide/Authentification/Password%20reset%20poisoning%20via%20middleware/solve.py)|
+|Offline password cracking|[click](/ServerSide/Authentification/Offline%20password%20cracking/solve.py)|
