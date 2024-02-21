@@ -12,3 +12,4 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Password reset broken logic|[click](/ServerSide/Authentification/Password%20reset%20broken%20logic/solve.py)|
 |Password reset poisoning via middleware|[click](/ServerSide/Authentification/Password%20reset%20poisoning%20via%20middleware/solve.py)|
 |Offline password cracking|[click](/ServerSide/Authentification/Offline%20password%20cracking/solve.py)|
+|Password brute-force via password change|[click](/ServerSide/Authentification/Password%20brute-force%20via%20password%20change/solve.py)|
