@@ -22,3 +22,4 @@ Port Swigger Labs Solutions only using `python` scripts.
 |File path traversal, traversal sequences blocked with absolute path bypass|[click](/ServerSide/PathTraversal/File%20path%20traversal,%20traversal%20sequences%20blocked%20with%20absolute%20path%20bypass/solve.py)|
 |File path traversal, traversal sequences stripped non-recursively|[click](/ServerSide/PathTraversal/File%20path%20traversal,%20traversal%20sequences%20stripped%20non-recursively/solve.py)|
 |File path traversal, traversal sequences stripped with superfluous URL-decode|[click](/ServerSide/PathTraversal/File%20path%20traversal,%20traversal%20sequences%20stripped%20with%20superfluous%20URL-decode/solve.py)|
+|File path traversal, validation of start of path|[click](/ServerSide/PathTraversal/File%20path%20traversal,%20validation%20of%20start%20of%20path/solve.py)|
