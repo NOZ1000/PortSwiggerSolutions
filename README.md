@@ -37,3 +37,4 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Lab Name|Link|
 |---|---|
 |Excessive trust in client-side controls|[click](/ServerSide/Business%20logic%20vulnerabilities/Excessive%20trust%20in%20client-side%20controls/solve.py)|
+|High-level logic vulnerability|[click](/ServerSide/Business%20logic%20vulnerabilities/High-level%20logic%20vulnerability/solve.py)|
