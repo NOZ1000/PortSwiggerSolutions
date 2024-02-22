@@ -33,8 +33,8 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Blind OS command injection with output redirection|[click](/ServerSide/OS%20command%20injection/Blind%20OS%20command%20injection%20with%20output%20redirection/solve.py)|
 
 # Business logic vulnerabilities
-
 |Lab Name|Link|
 |---|---|
 |Excessive trust in client-side controls|[click](/ServerSide/Business%20logic%20vulnerabilities/Excessive%20trust%20in%20client-side%20controls/solve.py)|
 |High-level logic vulnerability|[click](/ServerSide/Business%20logic%20vulnerabilities/High-level%20logic%20vulnerability/solve.py)|
+|Inconsistent security controls|[click](/ServerSide/Business%20logic%20vulnerabilities/Inconsistent%20security%20controls/solve.py)|
