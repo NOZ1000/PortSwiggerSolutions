@@ -31,3 +31,9 @@ Port Swigger Labs Solutions only using `python` scripts.
 |OS command injection, simple case|[click](/ServerSide/OS%20command%20injection/OS%20command%20injection,%20simple%20case/solve.py)|
 |Blind OS command injection with time delays|[click](/ServerSide/OS%20command%20injection/Blind%20OS%20command%20injection%20with%20time%20delays/solve.py)|
 |Blind OS command injection with output redirection|[click](/ServerSide/OS%20command%20injection/Blind%20OS%20command%20injection%20with%20output%20redirection/solve.py)|
+
+# Business logic vulnerabilities
+
+|Lab Name|Link|
+|---|---|
+|Excessive trust in client-side controls|[click](/ServerSide/Business%20logic%20vulnerabilities/Excessive%20trust%20in%20client-side%20controls/solve.py)|
