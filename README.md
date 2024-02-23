@@ -40,3 +40,4 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Inconsistent security controls|[click](/ServerSide/Business%20logic%20vulnerabilities/Inconsistent%20security%20controls/solve.py)|
 |Flawed enforcement of business rules|[click](/ServerSide/Business%20logic%20vulnerabilities/Flawed%20enforcement%20of%20business%20rules/solve.py)|
 |Low-level logic flaw|[click](/ServerSide/Business%20logic%20vulnerabilities/Low-level%20logic%20flaw/solve.py)|
+|Inconsistent handling of exceptional input|[click](/ServerSide/Business%20logic%20vulnerabilities/Inconsistent%20handling%20of%20exceptional%20input/solve.py)|
