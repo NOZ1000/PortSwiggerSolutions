@@ -47,3 +47,4 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Lab Name|Link|
 |---|---|
 |Method-based access control can be circumvented|[click](/ServerSide/AccessControl/Method-based%20access%20control%20can%20be%20circumvented/solve.py)|
+|User ID controlled by request parameter, with unpredictable user IDs|[click](/ServerSide/AccessControl/User%20ID%20controlled%20by%20request%20parameter,%20with%20unpredictable%20user%20IDs%20/solve.py)|
