@@ -50,3 +50,4 @@ Port Swigger Labs Solutions only using `python` scripts.
 |User ID controlled by request parameter, with unpredictable user IDs|[click](/ServerSide/AccessControl/User%20ID%20controlled%20by%20request%20parameter,%20with%20unpredictable%20user%20IDs%20/solve.py)|
 |User ID controlled by request parameter with data leakage in redirect|[click](/ServerSide/AccessControl/User%20ID%20controlled%20by%20request%20parameter%20with%20data%20leakage%20in%20redirect/solve.py)|
 |Multi-step process with no access control on one step|[click](/ServerSide/AccessControl/Multi-step%20process%20with%20no%20access%20control%20on%20one%20step/solve.py)|
+|Referer-based access control|[click](/ServerSide/AccessControl/Referer-based%20access%20control/solve.py)|
