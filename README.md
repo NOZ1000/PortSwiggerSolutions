@@ -42,4 +42,8 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Low-level logic flaw|[click](/ServerSide/Business%20logic%20vulnerabilities/Low-level%20logic%20flaw/solve.py)|
 |Inconsistent handling of exceptional input|[click](/ServerSide/Business%20logic%20vulnerabilities/Inconsistent%20handling%20of%20exceptional%20input/solve.py)|
 |Weak isolation on dual-use endpoint|[click](/ServerSide/Business%20logic%20vulnerabilities/Weak%20isolation%20on%20dual-use%20endpoint/solve.py)
+
+# Access control
+|Lab Name|Link|
+|---|---|
 |Method-based access control can be circumvented|[click](/ServerSide/AccessControl/Method-based%20access%20control%20can%20be%20circumvented/solve.py)|
