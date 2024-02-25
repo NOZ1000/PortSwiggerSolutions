@@ -52,3 +52,10 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Multi-step process with no access control on one step|[click](/ServerSide/AccessControl/Multi-step%20process%20with%20no%20access%20control%20on%20one%20step/solve.py)|
 |Referer-based access control|[click](/ServerSide/AccessControl/Referer-based%20access%20control/solve.py)|
 |Web shell upload via race condition|[click](/ServerSide/FileUpload/Web%20shell%20upload%20via%20race%20condition/solve.py)|
+
+# Race conditions
+    Unfortunatly, the exploit can successfully apply one coupon maximum 3 times, but to solve the lab, we need to apply it more than 20 times.
+    So, I will solve it using Turbo Intruder using Single Packet Attack. But i think was nice try. In future i need to try use this [git repo](https://github.com/nxenon/h2spacex?tab=readme-ov-file) to solve it using only python.
+|Lab Name|Link|
+|---|---|
+|Limit overrun race conditions|[click](/ServerSide/Race%20conditions/Limit%20overrun%20race%20conditions/solve.py)|
