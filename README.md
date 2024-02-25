@@ -54,8 +54,11 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Web shell upload via race condition|[click](/ServerSide/FileUpload/Web%20shell%20upload%20via%20race%20condition/solve.py)|
 
 # Race conditions
-    Unfortunatly, the exploit can successfully apply one coupon maximum 3 times, but to solve the lab, we need to apply it more than 20 times.
-    So, I will solve it using Turbo Intruder using Single Packet Attack. But i think was nice try. In future i need to try use this [git repo](https://github.com/nxenon/h2spacex?tab=readme-ov-file) to solve it using only python.
+    Unfortunatly, my python exploit can successfully apply one coupon maximum 
+    3 times, but to solve the lab, we need to apply it more than 20 times.
+    So, I will solve it using Turbo Intruder using Single Packet Attack. 
+    But i think was nice try. In future i need to try use 
+    this [git repo](https://github.com/nxenon/h2spacex?tab=readme-ov-file) to solve it using only python.
 |Lab Name|Link|
 |---|---|
 |Limit overrun race conditions|[click](/ServerSide/Race%20conditions/Limit%20overrun%20race%20conditions/solve.py)|
