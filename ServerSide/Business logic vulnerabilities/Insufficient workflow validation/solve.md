@@ -6,7 +6,7 @@ Firstly, i tried purchasing item for 77$( i had 100$) then added target item to 
 2. Intercept the request to add target item to cart(send to repeater).
 3. Intercept puchase request(send to repeater).
 4. Add to the group two requests above.
-5. Send the group request in parallel(single packet attack). And you will successfully purchase the target item.
+5. Send the group request in parallel(single packet attack). Then follow redirect from purchasing request. And you will successfully purchase the target item.
 
 
 ## Requests from repeater group
