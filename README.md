@@ -66,3 +66,4 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Limit overrun race conditions|[click](/ServerSide/Race%20conditions/Limit%20overrun%20race%20conditions/solve.py)|
 |Bypassing rate limits via race conditions|[click](/ServerSide/Race%20conditions/Bypassing%20rate%20limits%20via%20race%20conditions/solve.md)|
 |Multi-endpoint race conditions|[click](/ServerSide/Race%20conditions/Multi-endpoint%20race%20conditions/solve.md)|
+|Single-endpoint race conditions|[click](/ServerSide/Race%20conditions/Single-endpoint%20race%20conditions/solve.md)|
