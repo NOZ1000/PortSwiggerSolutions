@@ -67,3 +67,10 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Bypassing rate limits via race conditions|[click](/ServerSide/Race%20conditions/Bypassing%20rate%20limits%20via%20race%20conditions/solve.md)|
 |Multi-endpoint race conditions|[click](/ServerSide/Race%20conditions/Multi-endpoint%20race%20conditions/solve.md)|
 |Single-endpoint race conditions|[click](/ServerSide/Race%20conditions/Single-endpoint%20race%20conditions/solve.md)|
+
+
+# Server-side request forgery (SSRF)
+
+|Lab Name|Link|
+|---|---|
+|Basic SSRF against another back-end system|[click](/ServerSide/SSRF/Basic%20SSRF%20against%20another%20back-end%20system/solve.py)|
