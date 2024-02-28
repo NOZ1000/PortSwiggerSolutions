@@ -6,7 +6,7 @@ My first mistake, i thought that the challenge was in abbusing gift cards. And u
 
 After rereading the topic information, i realized that the delay between payment and adding item to the cart was different. And i would be able to fit in the time between the payment and adding the item to the cart `after adding some garbage requests` after payment and before adding the item to the cart.
 
-[image](./Screenshot%20from%202024-02-28%2020-24-31.png)
+![image](./Screenshot%20from%202024-02-28%2020-24-31.png)
 
 ## Solution
 
