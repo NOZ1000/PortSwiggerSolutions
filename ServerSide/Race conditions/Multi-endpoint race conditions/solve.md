@@ -1,6 +1,6 @@
 ## First Attempt
 
-My first mistake, i thought that the challenge was in abbusing gift cards. And u successfully addede 4000$ to my account. But i was wrong. And i couldnt use this money. So my second try was the next day after i rereaded the topic infomation.
+My first mistake, i thought that the challenge was in abbusing gift cards. And u successfully added 4000$ to my account. But i was wrong. And i couldnt use this money. So my second try was the next day after i rereaded the topic infomation.
 
 ## Second Attempt
 
