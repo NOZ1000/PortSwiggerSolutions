@@ -91,3 +91,4 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Lab Name|Link|
 |---|---|
 |Detecting NoSQL injection|[click](/ServerSide/NoSQL/Detecting%20NoSQL%20injection/solve.py)|
+|Exploiting NoSQL operator injection to bypass authentication|[click](/ServerSide/NoSQL/Exploiting%20NoSQL%20operator%20injection%20to%20bypass%20authentication/solve.py)|
