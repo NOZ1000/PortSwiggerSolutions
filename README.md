@@ -84,3 +84,4 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Exploiting XXE to perform SSRF attacks|[click](/ServerSide/XXE/Exploiting%20XXE%20to%20perform%20SSRF%20attacks/solve.py)|
 |Exploiting blind XXE to retrieve data via error messages|[click](/ServerSide/XXE/Exploiting%20blind%20XXE%20to%20retrieve%20data%20via%20error%20messages/solve.py)|
 |Exploiting XXE to retrieve data by repurposing a local DTD|[click](/ServerSide/XXE/Exploiting%20XXE%20to%20retrieve%20data%20by%20repurposing%20a%20local%20DTD/solve.py)|
+|Exploiting XInclude to retrieve files|[click](/ServerSide/XXE/Exploiting%20XInclude%20to%20retrieve%20files/solve.py)|
