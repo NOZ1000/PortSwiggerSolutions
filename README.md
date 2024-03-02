@@ -81,3 +81,4 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Lab Name|Link|
 |---|---|
 |Exploiting XXE using external entities to retrieve files|[click](/ServerSide/XXE/Exploiting%20XXE%20using%20external%20entities%20to%20retrieve%20files/solve.py)|
+|Exploiting XXE to perform SSRF attacks|[click](/ServerSide/XXE/Exploiting%20XXE%20to%20perform%20SSRF%20attacks/solve.py)|
