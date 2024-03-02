@@ -75,3 +75,9 @@ Port Swigger Labs Solutions only using `python` scripts.
 |---|---|
 |Basic SSRF against another back-end system|[click](/ServerSide/SSRF/Basic%20SSRF%20against%20another%20back-end%20system/solve.py)|
 |SSRF with blacklist-based input filter|[click](/ServerSide/SSRF/SSRF%20with%20blacklist-based%20input%20filter/solve.py)|
+
+# XML external entity (XXE) injection
+
+|Lab Name|Link|
+|---|---|
+|Exploiting XXE using external entities to retrieve files|[click](/ServerSide/XXE/Exploiting%20XXE%20using%20external%20entities%20to%20retrieve%20files/solve.py)|
