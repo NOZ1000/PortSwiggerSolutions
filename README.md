@@ -86,3 +86,8 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Exploiting XXE to retrieve data by repurposing a local DTD|[click](/ServerSide/XXE/Exploiting%20XXE%20to%20retrieve%20data%20by%20repurposing%20a%20local%20DTD/solve.py)|
 |Exploiting XInclude to retrieve files|[click](/ServerSide/XXE/Exploiting%20XInclude%20to%20retrieve%20files/solve.py)|
 |Exploiting XXE via image file upload|[click](/ServerSide/XXE/Exploiting%20XXE%20via%20image%20file%20upload/solve.py)|
+
+# NoSQL injection
+|Lab Name|Link|
+|---|---|
+|Detecting NoSQL injection|[click](/ServerSide/NoSQL/Detecting%20NoSQL%20injection/solve.py)|
