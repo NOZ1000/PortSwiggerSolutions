@@ -99,3 +99,16 @@ Port Swigger Labs Solutions only using `python` scripts.
 |Lab Name|Link|
 |---|---|
 |Exploiting an API endpoint using documentation|[click](/ServerSide/API%20testing/Exploiting%20an%20API%20endpoint%20using%20documentation/solve.py)|
+
+# Insecure Deserialization
+
+| Lab Name                                                            | Link                                                                    |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Arbitrary object injection in PHP                                   | [[Arbitrary object injection in PHP]]                                   |
+| Developing a custom gadget chain for PHP deserialization            | [[Developing a custom gadget chain for PHP deserialization]]            |
+| Exploiting Java deserialization with Apache Commons                 | [[Exploiting Java deserialization with Apache Commons]]                 |
+| Exploiting PHP deserialization with a pre-built gadget chain        | [[Exploiting PHP deserialization with a pre-built gadget chain]]        |
+| Exploiting Ruby deserialization using a documented gadget chain     | [[Exploiting Ruby deserialization using a documented gadget chain]]     |
+| Modifying serialized data types                                     | [[Modifying serialized data types]]                                     |
+| Modifying serialized objects                                        | [[Modifying serialized objects]]                                        |
+| Using application functionality to exploit insecure deserialization | [[Using application functionality to exploit insecure deserialization]] |
