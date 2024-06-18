@@ -96,19 +96,19 @@ Port Swigger Labs Solutions only using `python` scripts.
 
 # API testing
 
-|Lab Name|Link|
-|---|---|
-|Exploiting an API endpoint using documentation|[click](/ServerSide/API%20testing/Exploiting%20an%20API%20endpoint%20using%20documentation/solve.py)|
+| Lab Name                                       | Link                                                                                                 |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Exploiting an API endpoint using documentation | [click](/ServerSide/API%20testing/Exploiting%20an%20API%20endpoint%20using%20documentation/solve.py) |
 
 # Insecure Deserialization
 
-| Lab Name                                                            | Link                                                                    |
-| ------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Arbitrary object injection in PHP                                   | [[Arbitrary object injection in PHP]]                                   |
-| Developing a custom gadget chain for PHP deserialization            | [[Developing a custom gadget chain for PHP deserialization]]            |
-| Exploiting Java deserialization with Apache Commons                 | [[Exploiting Java deserialization with Apache Commons]]                 |
-| Exploiting PHP deserialization with a pre-built gadget chain        | [[Exploiting PHP deserialization with a pre-built gadget chain]]        |
-| Exploiting Ruby deserialization using a documented gadget chain     | [[Exploiting Ruby deserialization using a documented gadget chain]]     |
-| Modifying serialized data types                                     | [[Modifying serialized data types]]                                     |
-| Modifying serialized objects                                        | [[Modifying serialized objects]]                                        |
-| Using application functionality to exploit insecure deserialization | [[Using application functionality to exploit insecure deserialization]] |
+| Lab Name                                                            | Link                                                                                                                                                                                                 |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Arbitrary object injection in PHP                                   | [click](/AdvancedTopics%2FInsecureDeserialization%2FArbitrary%20object%20injection%20in%20PHP)                                                                                                       |
+| Developing a custom gadget chain for PHP deserialization            | [click](/AdvancedTopics%2FInsecureDeserialization%2FDeveloping%20a%20custom%20gadget%20chain%20for%20PHP%20deserialization%2FDeveloping%20a%20custom%20gadget%20chain%20for%20PHP%20deserialization) |
+| Exploiting Java deserialization with Apache Commons                 | [click](/AdvancedTopics/InsecureDeserialization/ExploitingJavadeserializationwithApacheCommons/Exploiting%20Java%20deserialization%20with%20Apache%20Commons.md)                                                                                                                                              |
+| Exploiting PHP deserialization with a pre-built gadget chain        | [click](/AdvancedTopics/InsecureDeserialization/ExploitingPHPdeserializationwithapre-builtgadgetchain/Exploiting%20PHP%20deserialization%20with%20a%20pre-built%20gadget%20chain.md)                                                                                                                                     |
+| Exploiting Ruby deserialization using a documented gadget chain     | [click](/AdvancedTopics/InsecureDeserialization/ExploitingRubydeserializationusingadocumentedgadgetchain/Exploiting%20Ruby%20deserialization%20using%20a%20documented%20gadget%20chain.md)                                                                                                                                  |
+| Modifying serialized data types                                     | [click](/AdvancedTopics/InsecureDeserialization/Modifying%20serialized%20data%20types.md)                                                                                                     |
+| Modifying serialized objects                                        | [click](/AdvancedTopics/InsecureDeserialization/Modifying%20serialized%20objects.md)                                                                                                      |
+| Using application functionality to exploit insecure deserialization | [click](/AdvancedTopics/InsecureDeserialization/Using%20application%20functionality%20to%20exploit%20insecure%20deserialization.md)                                                                                      |

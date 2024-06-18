@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ecd00d53a19c78f8",
+        "id": "61c1b1970b80e9a6",
         "type": "tabs",
         "children": [
           {
-            "id": "72c26acb08259ccb",
+            "id": "796817420c2e52b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,6 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72c26acb08259ccb",
-  "lastOpenFiles": []
+  "active": "796817420c2e52b0",
+  "lastOpenFiles": [
+    "ServerSide/Authentification/Broken brute-force protection%2C IP block/solve.py.md",
+    "README.md",
+    "ServerSide/Authentification/Broken brute-force protection%2C IP block",
+    "AdvancedTopics%2FInsecureDeserialization%2FDeveloping a custom gadget chain for PHP deserialization%2FDeveloping a custom gadget chain for PHP deserialization.md",
+    "AdvancedTopics/InsecureDeserialization/Arbitrary object injection in PHP.md"
+  ]
 }
