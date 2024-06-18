@@ -148,8 +148,9 @@
   },
   "active": "796817420c2e52b0",
   "lastOpenFiles": [
-    "ServerSide/Authentification/Broken brute-force protection%2C IP block/solve.py.md",
+    "AdvancedTopics/Server-side template injection/Server-side template injection in an unknown language with a documented exploit.md",
     "README.md",
+    "ServerSide/Authentification/Broken brute-force protection%2C IP block/solve.py.md",
     "ServerSide/Authentification/Broken brute-force protection%2C IP block",
     "AdvancedTopics%2FInsecureDeserialization%2FDeveloping a custom gadget chain for PHP deserialization%2FDeveloping a custom gadget chain for PHP deserialization.md",
     "AdvancedTopics/InsecureDeserialization/Arbitrary object injection in PHP.md"

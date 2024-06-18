@@ -115,12 +115,21 @@ Port Swigger Labs Solutions only using `python` scripts.
 
 # Server-side template injection
 
+| Lab Name                                                                             | Link                                                                                                                                                                |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Basic server-side template injection                                                 | [click](/AdvancedTopics/Server-side%20template%20injection/Basic%20server-side%20template%20injection.md)                                                           |
+| Basic server-side template injection (code context)                                  | [click](/AdvancedTopics/Server-side%20template%20injection/Basic%20server-side%20template%20injection%20(code%20context).md)                                        |
+| Server-side template injection in an unknown language with a documented exploit      | [click](/AdvancedTopics/Server-side%20template%20injection/Server-side%20template%20injection%20in%20an%20unknown%20language%20with%20a%20documented%20exploit.md)  |
+| Server-side template injection in a sandboxed environment                            | [click](/AdvancedTopics/Server-side%20template%20injection/Server-side%20template%20injection%20in%20a%20sandboxed%20environment.md)                                |
+| Server-side template injection using documentation                                   | [click](/AdvancedTopics/Server-side%20template%20injection/Server-side%20template%20injection%20using%20documentation.md)                                           |
+| Server-side template injection with information disclosure via user-supplied objects | [click](/AdvancedTopics/Server-side%20template%20injection/Server-side%20template%20injection%20with%20information%20disclosure%20via%20user-supplied%20objects.md) |
 
-| Lab Name                                                                             | Link                                                                                                 |
-| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| Basic server-side template injection                                                 | [click](/AdvancedTopics/Server-side%20template%20injection/Basic%20server-side%20template%20injection.md) |
-| Basic server-side template injection (code context)                                  |   [click](/AdvancedTopics/Server-side%20template%20injection/Basic%20server-side%20template%20injection%20(code%20context).md)                                                                                                    |
-| Server-side template injection in an unknown language with a documented exploit      |        [click](/AdvancedTopics/Server-side%20template%20injection/Server-side%20template%20injection%20in%20an%20unknown%20language%20with%20a%20documented%20exploit.md)                                                                                               |
-| Server-side template injection in a sandboxed environment                            |            [click](/AdvancedTopics/Server-side%20template%20injection/Server-side%20template%20injection%20in%20a%20sandboxed%20environment.md)                                                                                           |
-| Server-side template injection using documentation                                   |           [click](/AdvancedTopics/Server-side%20template%20injection/Server-side%20template%20injection%20using%20documentation.md)                                                                                            |
-| Server-side template injection with information disclosure via user-supplied objects |           [click](/AdvancedTopics/Server-side%20template%20injection/Server-side%20template%20injection%20with%20information%20disclosure%20via%20user-supplied%20objects.md)                                                                                            |
+
+# Web cache poisoning
+
+| Lab Name                                             | Link                                             |
+| ---------------------------------------------------- | ------------------------------------------------ |
+| Web cache poisoning with multiple headers            | [click](/AdvancedTopics/Web%20cache%20poisoning/Web%20cache%20poisoning%20with%20multiple%20headers.md) |
+| Web cache poisoning with an unkeyed header           | [click](/AdvancedTopics/Web%20cache%20poisoning/Web%20cache%20poisoning%20with%20an%20unkeyed%20header.md) |
+| Web cache poisoning with an unkeyed cookie           | [click](/AdvancedTopics/Web%20cache%20poisoning/Web%20cache%20poisoning%20with%20an%20unkeyed%20cookie.md) |
+| Targeted web cache poisoning using an unknown header | [click](/AdvancedTopics/Web%20cache%20poisoning/Targeted%20web%20cache%20poisoning%20using%20an%20unknown%20header.md) |
